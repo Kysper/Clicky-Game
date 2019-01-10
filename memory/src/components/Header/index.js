@@ -12,7 +12,7 @@ class Header extends React.Component {
             <div className="p-2 bd-highlight">Click on a card to start!</div>
             <div className="p-2 bd-highlight">Score:{this.props.score}</div>
           </div>
-          <div class="text-center">        
+          <div className="text-center">        
           <img id='logo' src={logo} alt='logo'/>
           </div>
       </div>
