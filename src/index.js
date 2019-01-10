@@ -2,8 +2,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import Engine from './Engine';
-import * as serviceWorker from './serviceWorker';
-import '../node_modules/bootstrap/dist/css/bootstrap.css';
+import * as serviceWorker from './serviceWorker'
 
 ReactDOM.render(<Engine />, document.getElementById('root'));
 

@@ -2,7 +2,7 @@ import React from 'react';
 import Header from './components/Header';
 import Card from './components/Card'
 import cardImg from './images.json'
-import './Engine.css'
+import './Engine.css';
 
 class Engine extends React.Component {
   state = {
