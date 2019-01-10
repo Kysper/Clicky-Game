@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/Clicky-Game/static/media/littlemac.c7e151ee.png"
   },
   {
-    "revision": "981ed03bb81a96a60390",
+    "revision": "23e95ed34c46295197e0",
     "url": "/Clicky-Game/static/css/main.5fa1e016.chunk.css"
   },
   {
@@ -44,8 +44,8 @@ self.__precacheManifest = [
     "url": "/Clicky-Game/static/media/link.b50bb272.png"
   },
   {
-    "revision": "981ed03bb81a96a60390",
-    "url": "/Clicky-Game/static/js/main.981ed03b.chunk.js"
+    "revision": "23e95ed34c46295197e0",
+    "url": "/Clicky-Game/static/js/main.23e95ed3.chunk.js"
   },
   {
     "revision": "17e173d90699804f14d84d05f3ad08e6",
@@ -84,7 +84,7 @@ self.__precacheManifest = [
     "url": "/Clicky-Game/static/media/villager.0fca74bf.png"
   },
   {
-    "revision": "84d525ab9622d0cdd4210de6efacf5a6",
+    "revision": "85acf862002a2c52028f1dd8249798f9",
     "url": "/Clicky-Game/index.html"
   }
 ];
